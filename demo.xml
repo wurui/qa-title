@@ -14,5 +14,9 @@
         <icon>//oxm1.cc/img/app_default.png</icon>
     </p>
     <data>
+        <address>
+            <country>中国</country>
+            <city>杭州</city>
+        </address>
     </data>
 </root>

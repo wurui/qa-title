@@ -1,3 +1,1 @@
-.oxmod-qa-title{
-/* CSS */
- }
+.oxmod-qa-title>h2{font-weight:400;font-size:15px;color:#111;height:40px;line-height:40px}.oxmod-qa-title>h2>span{display:inline-block}.oxmod-qa-title>h2>span:first-child{width:60%;text-align:left}.oxmod-qa-title>h2>span:last-child{width:40%;text-align:right}.oxmod-qa-title>h2>span>a{background-color:transparent;border-style:none;color:#f60;font-size:14px}
